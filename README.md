@@ -23,10 +23,10 @@ The `currency-flag` selector has a default `display` of `inline-block`, size of 
 
 ## How to add flags
 
-1. Clone repo
-1. Run `npm install`
-1. Add correctly sized (`48x32`) `png` files to `src/flags`
-1. Run `npm run build`
-1. Commit to a new branch, include css files changed by build process
-1. Open a pull request
-1. Draft a release on GitHub with the same version as specified in `package.json`
+1.  Clone repo
+1.  Run `npm install`
+1.  Add correctly sized (`48x32`) `png` files to `src/flags`
+1.  Commit to a new branch
+1.  Open a pull request
+1.  Wait until CircleCI build is Done
+1.  Profit $$$
